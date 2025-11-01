@@ -1,1 +1,1 @@
-# Electronics-Shop
+# Electronics-Shop This code finds the most expensive combination of a keyboard and a USB drive that does not exceed a given budget `b`, returning `-1` if no combination is affordable. It does this by checking all possible pairs and keeping track of the maximum valid total.
